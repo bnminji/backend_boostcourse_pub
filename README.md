@@ -10,12 +10,10 @@ https://www.boostcourse.org/web326/joinLectures/28762?isDesc=false
 
 
 ### calculatorcli
-- mOCK객체 사용 실습
+- Mock 객체 사용 실습
 
 
 ### daoexam
 - DTO, DAO 실습 
 
-
-### calculator
 
